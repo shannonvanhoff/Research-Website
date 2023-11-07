@@ -1,0 +1,30 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* Two columns */
+    grid-template-rows: repeat(2, 1fr); /* Two rows */
+    grid-gap: 20px; /* Gap between grid items */
+    max-width: 400px; /* Adjust the container width as needed */
+    margin: 0 auto; /* Center the grid container horizontally */
+  }
+  
+  .grid-item {
+    border: 1px solid #bfc6ca; /* Add a 1px solid border */
+    color: #000; /* Change text color to black */
+    padding: 10px;
+    text-align: center;
+    font-size: 9px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .grid-item img {
+    width: 50px; /* Adjust image width as needed */
+    height: 50px; /* Adjust image height as needed */
+    margin-bottom: 10px;
+  }
+  
+  .grid-item p {
+    margin: 0;
+  }
+  
