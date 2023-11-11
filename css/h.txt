@@ -1,0 +1,85 @@
+<h2 class="section-title">Research Objectives</h2>
+                    <div class="timelinesub">
+                        <div class="outer">
+                          <div class="card">
+                            <div class="info">
+                              <h3 class="title">Type 2 Diabetes Prediction</h3>
+                              <p> <ul>
+                                <li>Developing an accurate and adaptive machine learning model for Type 2 Diabetes prediction using ensemble learning techniques.</li>
+                                <li>Developing the AutoML automation pipeline on top of the ML model to facilitate retraining of the model with new datasets by healthcare professionals without machine learning expertise.</li>
+                                <li>Deploying the ML model and the AutoML pipelines and creating a web interface to be utilized for inferencing.</li>
+                              </ul></p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="info">
+                              <h3 class="title">OCR System</h3>
+                              <p><ul>
+                                <li>Customize and fine-tune the Tesseract OCR engine to optimize its performance specifically for medical record images.</li>
+                                <li>Implement pre-processing techniques to improve OCR accuracy.</li>
+                                <li>Devoloping a post-processing NLP model to indentify and rectify  incorrect text.</li>
+                              </ul></p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="info">
+                              <h3 class="title">IHD Prediction</h3>
+                              <p><ul>
+                                <li>Developing the machine learning model to predict chronic kidney disease risk level.</li>
+                                <li>Identify the key factors which cause chronic kidney disease and carry out Feature engineering to select only the relevant features and Training the dataset with different ML algorithms.</li>
+                                <li>Evaluating which ML algorithm best fits the data and carrying out a factor analysis on the data to identify how different lifestyle and biological factors contribute towards CKD risk with the use of Hyperparameter tuning.</li>
+                                <li>Deployment of the model as an application interface for inferencing and testing by making inferences with the model for new individuals.</li>
+                                <li>Developing the AutoML pipeline to facilitate a retrainable model with new data for healthcare professionals without ML knowledge.</li>
+                              </ul> </p>
+                            </div>
+                          </div>
+                          <div class="card">
+                            <div class="info">
+                              <h3 class="title">CKD Prediction</h3>
+                              <p><ul>
+                                <li>Develop a machine learning model for predicting ischemic heart disease risk based on clinical and demographic variables, and evaluate its performance and the importance of different variables.</li>
+                                <li>Develop an automated machine learning pipeline for retraining the model on new data, and assess its scalability, efficiency, and performance compared to existing statistical models.</li>
+                                <li>Validate the machine learning model and pipeline on a large, diverse, and representative dataset of patients with ischemic heart disease, and explore their clinical implications for improving patient outcomes, reducing costs, and enhancing clinical decision-making, while identifying potential areas for further research and development.</li>
+                              </ul> </p>
+                            </div>
+                          </div>
+                          
+                        </div>
+                      </div>
+                      <a href="#" class="col-3">
+                        <img src="images/company-images/tensor.png" alt="Company"/>
+                        <div class="client-overlay"><span>Tensorflow</span></div>
+                    </a>
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/python.jpg" alt="Company"/>
+                        <div class="client-overlay"><span>Python</span></div>
+                    </a>
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/pyt.png" alt="Company"/>
+                        <div class="client-overlay"><span>Pytorch</span></div>
+                    </a>
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/opc.png" alt="Company"/>
+                        <div class="client-overlay"><span>opencv</span></div>
+                    </a>
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/tess.jpg" alt="Company"/>
+                        <div class="client-overlay"><span>Google Tesseract Ocr</span></div>
+                    </a>
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/sc.png" alt="Company"/>
+                        <div class="client-overlay"><span>spaCy</span></div>
+                    </a>
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/h2.png" alt="Company"/>
+                        <div class="client-overlay"><span>H2O Automl</span></div>
+                    </a>
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/tp.png" alt="Company"/>
+                        <div class="client-overlay"><span>Tea pot</span></div>
+                    </a>
+
+                    <a href="#" class="col-3">
+                        <img src="images/company-images/fap.png" alt="Company"/>
+                        <div class="client-overlay"><span>Fast API</span></div>
+                    </a>
